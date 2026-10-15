@@ -1,0 +1,533 @@
+{
+  "CACHI_2024": {
+    "canonical_width": 2862,
+    "canonical_height": 1839,
+    "form_width_mm": 286.2,
+    "form_height_mm": 183.9,
+    "header_height_mm": 8.9,
+    "row_height_mm": 7.0,
+    "n_rows": 25,
+    "column_gap_mm": 0.1,
+    "row_gap_mm": 0.1,
+    "columns": [
+      {
+        "key": "n",
+        "label": "N°",
+        "width_mm": 4.0,
+        "x_mm": 0.0
+      },
+      {
+        "key": "manip",
+        "label": "Manip.",
+        "width_mm": 12.0,
+        "x_mm": 4.0
+      },
+      {
+        "key": "code_dispositif",
+        "label": "Code dispositif",
+        "width_mm": 12.3,
+        "x_mm": 16.0
+      },
+      {
+        "key": "heure",
+        "label": "Heure Manip",
+        "width_mm": 12.7,
+        "x_mm": 28.3
+      },
+      {
+        "key": "taxon",
+        "label": "Taxon",
+        "width_mm": 12.3,
+        "x_mm": 41.0
+      },
+      {
+        "key": "sexe",
+        "label": "Sexe",
+        "width_mm": 8.9,
+        "x_mm": 53.3
+      },
+      {
+        "key": "poids",
+        "label": "Poids",
+        "width_mm": 9.2,
+        "x_mm": 62.2
+      },
+      {
+        "key": "ab",
+        "label": "AB",
+        "width_mm": 9.0,
+        "x_mm": 71.4
+      },
+      {
+        "key": "d5",
+        "label": "D5",
+        "width_mm": 8.8,
+        "x_mm": 80.4
+      },
+      {
+        "key": "d3",
+        "label": "D3",
+        "width_mm": 8.8,
+        "x_mm": 89.2
+      },
+      {
+        "key": "tibia",
+        "label": "Tibia",
+        "width_mm": 8.9,
+        "x_mm": 98.0
+      },
+      {
+        "key": "pouce",
+        "label": "Pouce",
+        "width_mm": 8.8,
+        "x_mm": 106.9
+      },
+      {
+        "key": "pied",
+        "label": "Pied",
+        "width_mm": 8.8,
+        "x_mm": 115.7
+      },
+      {
+        "key": "cm3",
+        "label": "CM3",
+        "width_mm": 8.8,
+        "x_mm": 124.5
+      },
+      {
+        "key": "queue",
+        "label": "Queue",
+        "width_mm": 8.8,
+        "x_mm": 133.3
+      },
+      {
+        "key": "taille_test",
+        "label": "Taille test.",
+        "width_mm": 8.8,
+        "x_mm": 142.1
+      },
+      {
+        "key": "taille_epi",
+        "label": "Taille epi.",
+        "width_mm": 8.5,
+        "x_mm": 150.9
+      },
+      {
+        "key": "tv",
+        "label": "TV",
+        "width_mm": 8.8,
+        "x_mm": 159.4
+      },
+      {
+        "key": "mam",
+        "label": "Mam.",
+        "width_mm": 9.0,
+        "x_mm": 168.2
+      },
+      {
+        "key": "gest",
+        "label": "Gest.",
+        "width_mm": 9.0,
+        "x_mm": 177.2
+      },
+      {
+        "key": "epiph",
+        "label": "Epiph.",
+        "width_mm": 9.0,
+        "x_mm": 186.2
+      },
+      {
+        "key": "chin_spot",
+        "label": "Chin-spot.",
+        "width_mm": 9.0,
+        "x_mm": 195.2
+      },
+      {
+        "key": "usure_dents",
+        "label": "Usure dents",
+        "width_mm": 9.0,
+        "x_mm": 204.2
+      },
+      {
+        "key": "glandes_taille",
+        "label": "Glandes taille",
+        "width_mm": 9.0,
+        "x_mm": 213.2
+      },
+      {
+        "key": "glandes_coul",
+        "label": "Glandes coul.",
+        "width_mm": 9.0,
+        "x_mm": 222.2
+      },
+      {
+        "key": "age_estime",
+        "label": "Age estimé",
+        "width_mm": 9.0,
+        "x_mm": 231.2
+      },
+      {
+        "key": "commentaires",
+        "label": "Commentaire",
+        "width_mm": 46.0,
+        "x_mm": 240.2
+      }
+    ]
+  },
+  "CACCHI_ancien": {
+    "canonical_width": 2862,
+    "canonical_height": 1839,
+    "form_width_mm": 286.2,
+    "form_height_mm": 183.9,
+    "header_height_mm": 8.9,
+    "row_height_mm": 7.0,
+    "n_rows": 25,
+    "column_gap_mm": 0.1,
+    "row_gap_mm": 0.1,
+    "columns": [
+      {
+        "key": "n",
+        "label": "N°",
+        "width_mm": 4.0,
+        "x_mm": 0.0
+      },
+      {
+        "key": "manip",
+        "label": "Manip.",
+        "width_mm": 12.0,
+        "x_mm": 4.0
+      },
+      {
+        "key": "code_dispositif",
+        "label": "Code dispositif",
+        "width_mm": 12.3,
+        "x_mm": 16.0
+      },
+      {
+        "key": "heure",
+        "label": "Heure Manip",
+        "width_mm": 12.7,
+        "x_mm": 28.3
+      },
+      {
+        "key": "taxon",
+        "label": "Taxon",
+        "width_mm": 12.2,
+        "x_mm": 41.0
+      },
+      {
+        "key": "sexe",
+        "label": "Sexe",
+        "width_mm": 9.0,
+        "x_mm": 53.2
+      },
+      {
+        "key": "poids",
+        "label": "Poids",
+        "width_mm": 9.2,
+        "x_mm": 62.2
+      },
+      {
+        "key": "ab",
+        "label": "AB",
+        "width_mm": 9.0,
+        "x_mm": 71.4
+      },
+      {
+        "key": "d5",
+        "label": "D5",
+        "width_mm": 8.8,
+        "x_mm": 80.4
+      },
+      {
+        "key": "d3",
+        "label": "D3",
+        "width_mm": 8.8,
+        "x_mm": 89.2
+      },
+      {
+        "key": "tibia",
+        "label": "Tibia",
+        "width_mm": 8.9,
+        "x_mm": 98.0
+      },
+      {
+        "key": "pouce",
+        "label": "Pouce",
+        "width_mm": 8.8,
+        "x_mm": 106.9
+      },
+      {
+        "key": "pied",
+        "label": "Pied",
+        "width_mm": 8.8,
+        "x_mm": 115.7
+      },
+      {
+        "key": "cm3",
+        "label": "CM3",
+        "width_mm": 8.8,
+        "x_mm": 124.5
+      },
+      {
+        "key": "queue",
+        "label": "Queue",
+        "width_mm": 8.8,
+        "x_mm": 133.3
+      },
+      {
+        "key": "taille_test",
+        "label": "Taille test.",
+        "width_mm": 8.8,
+        "x_mm": 142.1
+      },
+      {
+        "key": "taille_epi",
+        "label": "Taille epi.",
+        "width_mm": 8.5,
+        "x_mm": 150.9
+      },
+      {
+        "key": "tv",
+        "label": "TV",
+        "width_mm": 8.8,
+        "x_mm": 159.4
+      },
+      {
+        "key": "mam",
+        "label": "Mam.",
+        "width_mm": 9.0,
+        "x_mm": 168.2
+      },
+      {
+        "key": "gest",
+        "label": "Gest.",
+        "width_mm": 9.0,
+        "x_mm": 177.2
+      },
+      {
+        "key": "epiph",
+        "label": "Epiph.",
+        "width_mm": 9.0,
+        "x_mm": 186.2
+      },
+      {
+        "key": "chin_spot",
+        "label": "Chin-spot.",
+        "width_mm": 9.0,
+        "x_mm": 195.2
+      },
+      {
+        "key": "usure_dents",
+        "label": "Usure dents",
+        "width_mm": 9.0,
+        "x_mm": 204.2
+      },
+      {
+        "key": "glandes_taille",
+        "label": "Glandes taille",
+        "width_mm": 9.0,
+        "x_mm": 213.2
+      },
+      {
+        "key": "glandes_coul",
+        "label": "Glandes coul.",
+        "width_mm": 9.0,
+        "x_mm": 222.2
+      },
+      {
+        "key": "age_estime",
+        "label": "Age estimé",
+        "width_mm": 9.0,
+        "x_mm": 231.2
+      },
+      {
+        "key": "commentaires",
+        "label": "Commentaire",
+        "width_mm": 46.0,
+        "x_mm": 240.2
+      }
+    ]
+  },
+  "GMB_29": {
+    "canonical_width": 2970,
+    "canonical_height": 1834,
+    "form_width_mm": 297.0,
+    "form_height_mm": 183.4,
+    "header_height_mm": 7.4,
+    "row_height_mm": 8.8,
+    "n_rows": 20,
+    "column_gap_mm": 0.1,
+    "row_gap_mm": 0.1,
+    "columns": [
+      {
+        "key": "n",
+        "label": "N°",
+        "width_mm": 5,
+        "x_mm": 0.0
+      },
+      {
+        "key": "manip",
+        "label": "Manip.",
+        "width_mm": 6.8,
+        "x_mm": 5.0
+      },
+      {
+        "key": "code_dispositif",
+        "label": "Code dispositif",
+        "width_mm": 13,
+        "x_mm": 11.8
+      },
+      {
+        "key": "heure",
+        "label": "Heure Manip",
+        "width_mm": 12.1,
+        "x_mm": 24.8
+      },
+      {
+        "key": "taxon",
+        "label": "Taxon",
+        "width_mm": 14.5,
+        "x_mm": 37.4
+      },
+      {
+        "key": "sexe",
+        "label": "Sexe",
+        "width_mm": 6.1,
+        "x_mm": 51.9
+      },
+      {
+        "key": "ab",
+        "label": "AB",
+        "width_mm": 8.0,
+        "x_mm": 58.0
+      },
+      {
+        "key": "ab",
+        "label": "AB",
+        "width_mm": 9.0,
+        "x_mm": 66.0
+      },
+      {
+        "key": "d5",
+        "label": "D5",
+        "width_mm": 8,
+        "x_mm": 75.0
+      },
+      {
+        "key": "d3",
+        "label": "D3",
+        "width_mm": 7.8,
+        "x_mm": 83.0
+      },
+      {
+        "key": "pouce",
+        "label": "Pouce",
+        "width_mm": 8.8,
+        "x_mm": 90.8
+      },
+      {
+        "key": "queue",
+        "label": "Queue",
+        "width_mm": 8.8,
+        "x_mm": 99.6
+      },
+      {
+        "key": "tibia",
+        "label": "Tibia",
+        "width_mm": 8.9,
+        "x_mm": 108.4
+      },
+      {
+        "key": "pied",
+        "label": "Pied",
+        "width_mm": 8.8,
+        "x_mm": 117.3
+      },
+      {
+        "key": "cm3",
+        "label": "CM3",
+        "width_mm": 8.8,
+        "x_mm": 126.1
+      },
+      {
+        "key": "poids",
+        "label": "Poids",
+        "width_mm": 9.2,
+        "x_mm": 134.9
+      },
+      {
+        "key": "taille_test",
+        "label": "Taille test.",
+        "width_mm": 8.8,
+        "x_mm": 144.1
+      },
+      {
+        "key": "taille_epi",
+        "label": "Taille epi.",
+        "width_mm": 8.5,
+        "x_mm": 152.9
+      },
+      {
+        "key": "tv",
+        "label": "TV",
+        "width_mm": 8.8,
+        "x_mm": 161.4
+      },
+      {
+        "key": "mam",
+        "label": "Mam.",
+        "width_mm": 9.0,
+        "x_mm": 170.2
+      },
+      {
+        "key": "gest",
+        "label": "Gest.",
+        "width_mm": 9.0,
+        "x_mm": 179.2
+      },
+      {
+        "key": "epiph",
+        "label": "Epiph.",
+        "width_mm": 9.0,
+        "x_mm": 188.2
+      },
+      {
+        "key": "chin_spot",
+        "label": "Chin-spot.",
+        "width_mm": 9.0,
+        "x_mm": 197.2
+      },
+      {
+        "key": "usure_dents",
+        "label": "Usure dents",
+        "width_mm": 9.0,
+        "x_mm": 206.2
+      },
+      {
+        "key": "glandes_taille",
+        "label": "Glandes taille",
+        "width_mm": 9.0,
+        "x_mm": 215.2
+      },
+      {
+        "key": "glandes_coul",
+        "label": "Glandes coul.",
+        "width_mm": 9.0,
+        "x_mm": 224.2
+      },
+      {
+        "key": "age_estime",
+        "label": "Age estimé",
+        "width_mm": 9.0,
+        "x_mm": 233.2
+      },
+      {
+        "key": "commentaires",
+        "label": "Commentaire",
+        "width_mm": 54.8,
+        "x_mm": 242.2
+      }
+    ]
+  }
+}

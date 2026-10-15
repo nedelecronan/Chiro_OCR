@@ -1,0 +1,197 @@
+[
+  {
+    "nom": "Pipistrelle commune",
+    "scientifique": "Pipistrellus pipistrellus",
+    "code": "PIPPIP"
+  },
+  {
+    "nom": "Pipistrelle de Kuhl",
+    "scientifique": "Pipistrellus kuhlii",
+    "code": "PIPKUH"
+  },
+  {
+    "nom": "Barbastelle d'Europe",
+    "scientifique": "Barbastella barbastellus",
+    "code": "BARBAR"
+  },
+  {
+    "nom": "Murin de Daubenton",
+    "scientifique": "Myotis daubentonii",
+    "code": "MYODAU"
+  },
+  {
+    "nom": "Grand Rhinolophe",
+    "scientifique": "Rhinolophus ferrumequinum",
+    "code": "RHIFER"
+  },
+  {
+    "nom": "Recopier precedente",
+    "scientifique": "copy",
+    "code": "\""
+  },
+  {
+    "nom": "Grand Murin",
+    "scientifique": "Myotis myotis",
+    "code": "MYOMYO"
+  },
+  {
+    "nom": "Grande Noctule/Noctule géante",
+    "scientifique": "Nyctalus lasiopterus",
+    "code": "NYCLAS"
+  },
+  {
+    "nom": "Minioptère de Schreibers",
+    "scientifique": "Miniopterus schreibersii",
+    "code": "MINSCH"
+  },
+  {
+    "nom": "Molosse de Cestoni",
+    "scientifique": "Tadarida teniotis",
+    "code": "TADTEN"
+  },
+  {
+    "nom": "Murin à moustaches",
+    "scientifique": "Myotis mystacinus",
+    "code": "MYOMYS"
+  },
+  {
+    "nom": "Murin à oreilles échancrées",
+    "scientifique": "Myotis emarginatus",
+    "code": "MYOEMA"
+  },
+  {
+    "nom": "Murin d'Alcathoe",
+    "scientifique": "Myotis alcathoe",
+    "code": "MYOALC"
+  },
+  {
+    "nom": "Murin d'Escalera",
+    "scientifique": "Myotis escalerai",
+    "code": "MYOESC"
+  },
+  {
+    "nom": "Murin de Bechstein",
+    "scientifique": "Myotis bechsteinii",
+    "code": "MYOBEC"
+  },
+  {
+    "nom": "Murin de Brandt",
+    "scientifique": "Myotis brandtii",
+    "code": "MYOBRA"
+  },
+  {
+    "nom": "Murin de Capaccini",
+    "scientifique": "Myotis capaccinii",
+    "code": "MYOCAP"
+  },
+  {
+    "nom": "Murin de Daubenton",
+    "scientifique": "Myotis daubentonii",
+    "code": "MYODAU"
+  },
+  {
+    "nom": "Murin de Natterer",
+    "scientifique": "Myotis nattereri",
+    "code": "MYONAT"
+  },
+  {
+    "nom": "Murin des marais",
+    "scientifique": "Myotis dasycneme",
+    "code": "MYODAS"
+  },
+  {
+    "nom": "Murin du Maghreb",
+    "scientifique": "Myotis punicus",
+    "code": "MYOPUN"
+  },
+  {
+    "nom": "Murin cryptique",
+    "scientifique": "Myotis crypticus",
+    "code": "MYOCRY"
+  },
+  {
+    "nom": "Murin de Corse",
+    "scientifique": "Myotis nustrale",
+    "code": "MYONUS"
+  },
+  {
+    "nom": "Noctule commune",
+    "scientifique": "Nyctalus noctula",
+    "code": "NYCNOC"
+  },
+  {
+    "nom": "Noctule de Leisler",
+    "scientifique": "Nyctalus leisleri",
+    "code": "NYCLEI"
+  },
+  {
+    "nom": "Oreillard gris/Oreillard méridional",
+    "scientifique": "Plecotus austriacus",
+    "code": "PLEAUS"
+  },
+  {
+    "nom": "Oreillard montagnard",
+    "scientifique": "Plecotus macrobullaris",
+    "code": "PLEMAC"
+  },
+  {
+    "nom": "Oreillard roux",
+    "scientifique": "Plecotus auritus",
+    "code": "PLEAUR"
+  },
+  {
+    "nom": "Petit Murin",
+    "scientifique": "Myotis blythii",
+    "code": "MYOBLY"
+  },
+  {
+    "nom": "Pipistrelle de Kuhl",
+    "scientifique": "Pipistrellus kuhlii",
+    "code": "PIPKUH"
+  },
+  {
+    "nom": "Pipistrelle de Nathusius",
+    "scientifique": "Pipistrellus nathusii",
+    "code": "PIPNAT"
+  },
+  {
+    "nom": "Pipistrelle pygmée/Pipistrelle soprane",
+    "scientifique": "Pipistrellus pygmaeus",
+    "code": "PIPPYG"
+  },
+  {
+    "nom": "Petit Rhinolophe",
+    "scientifique": "Rhinolophus hipposideros",
+    "code": "RHIHIP"
+  },
+  {
+    "nom": "Rhinolophe de Méhely",
+    "scientifique": "Rhinolophus mehelyi",
+    "code": "RHIMEH"
+  },
+  {
+    "nom": "Rhinolophe euryale",
+    "scientifique": "Rhinolophus euryale",
+    "code": "RHIEUR"
+  },
+  {
+    "nom": "Sérotine bicolore/Vespertilion bicolore",
+    "scientifique": "Vespertilio murinus",
+    "code": "VESMUR"
+  },
+  {
+    "nom": "Sérotine commune",
+    "scientifique": "Eptesicus serotinus",
+    "code": "EPTSER"
+  },
+  {
+    "nom": "Sérotine de Nilsson/Sérotine boréale",
+    "scientifique": "Eptesicus nilssonii",
+    "code": "EPTNIL"
+  },
+  {
+    "nom": "Vespère de Savi",
+    "scientifique": "Hypsugo savii",
+    "code": "HYPSAV"
+  }
+]

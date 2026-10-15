@@ -1,0 +1,87 @@
+[
+  {
+    "nom": "Recopier precedente",
+    "scientifique": "copy",
+    "code": "\""
+  },
+  {
+    "nom": "Ardops des Petites Antilles",
+    "scientifique": "Ardops nichollsi",
+    "code": "ARDNIC"
+  },
+  {
+    "nom": "Artibé de la Jamaïque",
+    "scientifique": "Artibeus jamaicensis",
+    "code": "ARTJAM"
+  },
+  {
+    "nom": "Artibé de Schwartzi",
+    "scientifique": "Artibeus schwartzi",
+    "code": "ARTSCH"
+  },
+  {
+    "nom": "Brachyphylle des cavernes",
+    "scientifique": "Brachyphylla cavernarum",
+    "code": "BRACAV"
+  },
+  {
+    "nom": "Chiroderme de la Guadeloupe",
+    "scientifique": "Chiroderma improvisum",
+    "code": "CHIIMP"
+  },
+  {
+    "nom": "Molosse commun",
+    "scientifique": "Molossus molossus",
+    "code": "MOLMOL"
+  },
+  {
+    "nom": "Monophylle des Petites Antilles",
+    "scientifique": "Monophyllus plethodon",
+    "code": "MONPLE"
+  },
+  {
+    "nom": "Murin de la Dominique",
+    "scientifique": "Myotis dominicensis",
+    "code": "MYODOM"
+  },
+  {
+    "nom": "Murin de la Martinique",
+    "scientifique": "Myotis martiniquensis",
+    "code": "MYOMAR"
+  },
+  {
+    "nom": "Natalide isabelle",
+    "scientifique": "Natalus stramineus",
+    "code": "NATSTR"
+  },
+  {
+    "nom": "Noctilion pêcheur",
+    "scientifique": "Noctilio leporinus",
+    "code": "NOCLEP"
+  },
+  {
+    "nom": "Ptéronote de Davy",
+    "scientifique": "Pteronotus davyi",
+    "code": "PTEDAV"
+  },
+  {
+    "nom": "Sérotine de la Guadeloupe",
+    "scientifique": "Eptesicus guadeloupensis",
+    "code": "EPTGUA"
+  },
+  {
+    "nom": "Sturnire messager",
+    "scientifique": "Sturnira angeli",
+    "code": "STUANG"
+  },
+  {
+    "nom": "Sturnire de Guadeloupe",
+    "scientifique": "Sturnira thomasi",
+    "code": "STUTHO"
+  },
+  {
+    "nom": "Tadaride du Brésil",
+    "scientifique": "Tadarida brasiliensis",
+    "code": "TADBRA"
+  }
+]

@@ -1,0 +1,29 @@
+Pour installer l'outil :
+Telecharger l'ensemble des fichiers/dossier et le mettre dans un repertoire.
+Si pas déjà fait, Installer Python (https://www.python.org/downloads/).
+Ouvrir l'invite de commande Windows (taper CMD dans la bare de recherche).
+Se positionner dans le repertoire : "cd 'nom du repertoire'".
+Créer un environement python local : "python -m venv .venv" (uniquement  necessaire pour le premier lancement)
+Activer l'environement python local : ".venv\Scripts\activate"
+metre à jour l'environement python local : "pip install -r requirements.txt" (uniquement  necessaire pour le premier lancement)
+
+lancer l'appli : python app.py
+
+pour generer l'ensemble des poids de classificateurs :
+python train_closed_set_classifiers.py
+pour generer un des poids de classificateurs :
+
+python train_closed_set_classifiers.py --key Taxon_Metropole
+
+résumé :
+
+cd xxx
+python -m venv .venv
+.venv\Scripts\activate
+pip install -r requirements.txt
+python app.py
+
+
+python train_closed_set_classifiers.py
+
+python train_closed_set_classifiers.py --key Taxon_Metropole

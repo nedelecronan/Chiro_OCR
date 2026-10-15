@@ -1,0 +1,111 @@
+{
+  "sexe": {
+    "F": "femelle",
+    "M": "mâle",
+    "IND": "indéterminé",
+    "/": "Non observé"
+  },
+  "taille_testicules": {
+    "T0": "Invisibles",
+    "T1": "Gonflés",
+    "T2": "Très gonflés",
+    "T0-T1": "hésitation",
+    "T1-T2": "hésitation",
+    "T0-T2": "changement de taille",
+    "IND": "Indéterminé",
+    "/": "Non observé"
+  },
+  "taille_epididymes": {
+    "E0": "Non visibles",
+    "E1": "Gonflés",
+    "E2": "Très gonflés",
+    "E0-E1": "hésitation",
+    "E1-E2": "hésitation",
+    "IND": "Indéterminé",
+    "/": "Non observé"
+  },
+  "tv": {
+    "S": "Sombre/noire",
+    "B": "Bicolore",
+    "C": "Claire/diffuse",
+    "IND": "Indéterminé",
+    "/": "Non observé"
+  },
+  "mam": {
+    "MX": "Invisibles",
+    "M0": "Très petites",
+    "M1": "Visibles non gonflées",
+    "M2": "Gonflées/tendues",
+    "M3": "Visibles, non gonflées, poils très courts",
+    "M0-M1": "hésitation",
+    "M1-M2": "hésitation",
+    "M2-M3": "hésitation",
+    "M1-M3": "hésitation",
+    "IND": "Indéterminé",
+    "/": "Non observé"
+  },
+  "gest": {
+    "NG": "Probablement Non Gestante",
+    "PG": "Probablement Gestante",
+    "G": "Gestante (palpée)",
+    "IND": "Indéterminé",
+    "/": "Non observé"
+  },
+  "epiph": {
+    "F0": "Pas de fusion",
+    "F1": "Fusion en cours",
+    "F2": "Fusion terminée",
+    "F1-F2": "hésitation",
+    "IND": "Indéterminé",
+    "/": "Non observé"
+  },
+  "chin_spot": {
+    "C0": "non visible",
+    "C1": "peu visible",
+    "C2": "bien visible",
+    "C0-C1": "hésitation",
+    "C1-C2": "hésitation",
+    "IND": "indéterminé",
+    "/": "Non observé"
+  },
+  "usure_dents": {
+    "U0": "très pointues",
+    "U1": "pointues",
+    "U2": "limées",
+    "U0-U1": "hésitation",
+    "U1-U2": "hésitation",
+    "IND": "indéterminé",
+    "/": "Non observé"
+  },
+  "glandes_taille": {
+    "Gd0": "Non visibles",
+    "Gd1": "Apparentes",
+    "Gd2": "Proéminentes",
+    "IND": "indéterminé",
+    "/": "Non observé"
+  },
+  "glandes_couleur": {
+    "P": "Roses",
+    "W": "Blanches",
+    "Or": "Oranges",
+    "IND": "indéterminé",
+    "/": "Non observé"
+  },
+  "age_estime": {
+    "NVOL": "Juvénile non volant",
+    "1A": "juvénile de l'année civile",
+    "1A?": "juvénile de l'année civile probable",
+    "2A": "2ème année civile",
+    "2A?": "2ème année civile probable",
+    "+1A": "plus de 1 an",
+    "+1?": "plus de 1 an probable",
+    "VOL": "Individu volant indéterminé",
+    "AD": "Adulte",
+    "JUV": "Juvénile",
+    "IM": "Subadulte/Immature",
+    "AD?": "Adulte ?",
+    "JUV?": "Juvénile ?",
+    "IND": "Indéterminé",
+    "/": "Non attribué"
+  }
+}
